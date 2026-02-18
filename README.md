@@ -65,6 +65,17 @@ Hey, Netology
 <img width="2479" height="738" alt="image" src="https://github.com/user-attachments/assets/f2098a33-d8b2-4fb1-a10e-9c33a8048fb4" />
 <img width="1546" height="293" alt="image" src="https://github.com/user-attachments/assets/079d88f3-ae4e-4def-b6a2-e93f0127185d" />
 
+## Задача 4
+Запустите первый контейнер из образа centos c любым тегом в фоновом режиме, подключив папку текущий рабочий каталог $(pwd) на хостовой машине в /data контейнера, используя ключ -v.
+Запустите второй контейнер из образа debian в фоновом режиме, подключив текущий рабочий каталог $(pwd) в /data контейнера.
+Подключитесь к первому контейнеру с помощью docker exec и создайте текстовый файл любого содержания в /data.
+Добавьте ещё один файл в текущий каталог $(pwd) на хостовой машине.
+Подключитесь во второй контейнер и отобразите листинг и содержание файлов в /data контейнера.
+В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+
+<img width="1688" height="1311" alt="image" src="https://github.com/user-attachments/assets/17178126-2c50-445a-8428-9d416ec6c352" />
+<img width="695" height="182" alt="image" src="https://github.com/user-attachments/assets/e7bcedb8-ffe9-42d9-8f1b-a9adf945feb5" />
+
 
 
 
