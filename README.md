@@ -17,4 +17,5 @@ Hey, Netology
 </html>
 Соберите и отправьте созданный образ в свой dockerhub-репозитории c tag 1.0.0 (ТОЛЬКО ЕСЛИ ЕСТЬ ДОСТУП).
 Предоставьте ответ в виде ссылки на https://hub.docker.com/<username_repo>/custom-nginx/general .
+  
 # Ответ : https://hub.docker.com/repository/docker/maxik1394/custom-nginx/general
