@@ -130,6 +130,14 @@ services:
 
 Docker Compose ищет файлы в этом порядке и использует первый найденный файл. Поскольку compose.yaml имеет наивысший приоритет, он был запущен, а docker-compose.yaml был проигнорирован.
 
+<img width="1646" height="1176" alt="image" src="https://github.com/user-attachments/assets/1dcf1b9f-11dd-4f87-858c-742e0d9129c0" />
+<img width="1184" height="380" alt="image" src="https://github.com/user-attachments/assets/6fce1425-028b-42da-9471-157e35ed7d8b" />
+<img width="2167" height="406" alt="image" src="https://github.com/user-attachments/assets/9a5f9483-e112-40e9-b86c-a9f41e5c8e55" />
+<img width="1292" height="1231" alt="image" src="https://github.com/user-attachments/assets/84dd1300-97c0-4576-b263-9e1d9afcea3f" />
+
+
+
+
 
 
 
