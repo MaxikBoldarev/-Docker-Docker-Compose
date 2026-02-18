@@ -29,3 +29,6 @@ Hey, Netology
 Выполните команду date +"%d-%m-%Y %T.%N %Z" ; sleep 0.150 ; docker ps ; ss -tlpn | grep 127.0.0.1:8080  ; docker logs custom-nginx-t2 -n1 ; docker exec -it custom-nginx-t2 base64 /usr/share/nginx/html/index.html
 Убедитесь с помощью curl или веб браузера, что индекс-страница доступна.
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+
+# Ответ : 
+<img width="2233" height="455" alt="image" src="https://github.com/user-attachments/assets/69fb9c14-368b-46ca-82f6-14e0f5f20204" />
