@@ -134,6 +134,13 @@ Docker Compose ищет файлы в этом порядке и использ�
 <img width="1184" height="380" alt="image" src="https://github.com/user-attachments/assets/6fce1425-028b-42da-9471-157e35ed7d8b" />
 <img width="2167" height="406" alt="image" src="https://github.com/user-attachments/assets/9a5f9483-e112-40e9-b86c-a9f41e5c8e55" />
 <img width="1292" height="1231" alt="image" src="https://github.com/user-attachments/assets/84dd1300-97c0-4576-b263-9e1d9afcea3f" />
+<img width="1932" height="236" alt="image" src="https://github.com/user-attachments/assets/f6515b50-19bc-4c13-a15f-242c63ce16fb" />
+Суть предупреждения:
+- Docker Compose обнаружил, что основной файл compose.yaml был удален
+- Теперь используется docker-compose.yaml (следующий в приоритете)
+- Предупреждение о том, что атрибут version устарел в новых версиях Docker Compose (v2.x)
+- В Compose v2 версия файла определяется автоматически, и указывать version: не обязательно
+<img width="2000" height="145" alt="image" src="https://github.com/user-attachments/assets/4ec0e4b4-d100-43dc-bb1c-1a471dba27fb" />
 
 
 
